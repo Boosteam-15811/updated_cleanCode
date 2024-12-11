@@ -22,7 +22,6 @@ public class DriveClass
         BLMotor = BL;
     }
 
-
     //driving function that allows arcade drive - calculation for 360 degrees of drone driving
     public void arcade(double y, double x,double rx)
     {
